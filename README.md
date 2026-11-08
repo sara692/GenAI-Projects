@@ -1,4 +1,4 @@
-# 🤖 LLM
+# 🤖 GenAI
 
 A collection of projects exploring Large Language Models (LLMs), AI Agents, and NLP techniques — from simple Q&A apps to emotion classification systems.
 
