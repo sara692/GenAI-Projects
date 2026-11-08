@@ -204,11 +204,27 @@ huggingface-hub>=0.5.0
 2. [DistilBERT Paper](https://arxiv.org/abs/1910.01108)
 3. [Emotion Dataset on Hugging Face](https://huggingface.co/datasets/emotion)
 
-## 👥 Contributors
-- Sara Ibrahim Mohamed
+## 📄 License
 
-## 📧 Contact
-For questions or feedback, please create an issue in the project repository or contact the maintainers.
--mail: saraomran433@gmail.com
--Linkedin: https://www.linkedin.com/in/sara-ibrahim-omran 
+This project is released under the MIT License — feel free to use it for
+learning or as a portfolio reference.
+
+## 👨‍💻 Author
+
+**Sara Ibrahim**  
+*Data Scientist | Machine Learning / AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sara-ibrahim-omran)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Saraomran433@gmail.com)
+
+### 🌟 Let's Connect!
+
+I'm passionate about solving real-world problems with data, machine learning, and AI. Feel free to reach out for:
+
+- 💼 Job opportunities and collaborations
+- 📚 Technical discussions and knowledge sharing
+- 🚀 Project ideas and innovative solutions
+
+**⭐ If you find this project helpful, please give the repo a star!**
+
 
