@@ -40,10 +40,6 @@ A **Large Language Model (LLM)** is an AI model trained on massive amounts of te
 
 - ✅ PDF Q&A Bot
 - ✅ Emotion Classification with DistilBERT
-- ⬜ AI Agent with web search
-- ⬜ RAG (Retrieval Augmented Generation) pipeline
-- ⬜ Multi-agent system
-- ⬜ Fine-tuning an open-source LLM
 
 ---
 
